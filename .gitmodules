@@ -1,0 +1,6 @@
+[submodule "aaa"]
+	path = aaa
+	url = git@github.com:cocooma/repository.git
+[submodule "submod"]
+	path = submod
+	url = git@github.com:cocooma/repository.git
